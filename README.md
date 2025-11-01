@@ -1,6 +1,6 @@
 # Calculating-Family-Expenses-using-Service-Now
 
-Here You will find all the document files related to the " Prevent user deletion if assigned to an incident" Project.
+Here You will find all the document files related to the " Calculating Family Expenses using Service Now " Project.
 
 Team ID : NM2025TMID01629
 
@@ -10,7 +10,7 @@ Team Leader : ASHOK K
 
 Team member : ANBU ABDUL KAREEM A
 
-Team member : CHINNA ADAIKKAN
+Team member : CHINNA ADAIKKAN A
 
 Servicenow Instance: https://dev287352.service-now.com/
 
