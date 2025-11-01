@@ -2,9 +2,9 @@
 
 Here You will find all the document files related to the " Calculating Family Expenses using Service Now " Project.
 
-Team ID : NM2025TMID01629
+Team ID     : NM2025TMID01629
 
-Team Size : 3
+Team Size   : 3
 
 Team Leader : ASHOK K
 
